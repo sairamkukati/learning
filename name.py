@@ -1,2 +1,3 @@
 #hello there
-this is just for leearning
+#this is just for leearning
+print("hello")
